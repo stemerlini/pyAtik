@@ -1,0 +1,7 @@
+# Ignore Folders
+/Packages/
+/Packages/*
+/Packages/*.zip
+/Packages/*.exe
+*.zip
+*.exe
