@@ -1,7 +1,5 @@
 ## pyAtik - v1.0
-Python Software to trigger Atik Cameras
-Author: Stefano Merlini
-Date: 23-05-24
+Python Software to trigger Atik Cameras by Stefano Merlini
 
 ### Requirements:
 - Install Labjack package
