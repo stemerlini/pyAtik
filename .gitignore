@@ -5,3 +5,5 @@
 /Packages/*.exe
 *.zip
 *.exe
+*.DS_Store
+
